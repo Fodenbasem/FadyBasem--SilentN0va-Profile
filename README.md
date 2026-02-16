@@ -1,5 +1,7 @@
 <h1 align="center">💀 Fady Basem — ( SilentN0va ) 💀</h1>
-<h3 align="center">🚀 Cybersecurity Student @ ERU | Reverse Engineer | Red Teamer | Bug Bounty Hunter | Penetration Tester Enthusiast</h3>
+<h3 align="center">✈️🇪🇬🇦🇪🇮🇳🇳🇵
+                    Top 3% TryHackMe | Junior Cybersecurity Engineer @ ERU | 
+                    Red Team & Offensive Security | Penetration Testing</h3>
 
 <p align="center">
   <img src="WhatsApp Image 2025-10-07 at 22.25.51_eb8a1319.jpg" alt="Fady Basem" width="200" style="border-radius:50%;">
