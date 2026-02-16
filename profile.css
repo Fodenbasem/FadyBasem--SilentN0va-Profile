@@ -104,6 +104,75 @@ body {
     color: white;
 }
 
+/* ---------- Material Button ---------- */
+.material-button {
+    display: block;
+    width: 90%;
+    max-width: 380px;
+    margin: 15px auto;
+    padding: 12px 20px;
+    background-color: #000000;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: 600;
+    border-radius: 8px;
+    transition: background-color 0.3s, transform 0.3s;
+    cursor: pointer;
+    position: relative;
+    z-index: 10;
+}
+
+.material-button:hover {
+    background-color: #222222;
+    transform: translateY(-2px);
+}
+
+/* ---------- Responsive Design ---------- */
+
+/* Skills/Material Section */
+.skills-section {
+    background-color: #000000;
+    padding: 20px;
+    margin-top: 0;
+    position: relative;
+    z-index: 10;
+}
+
+.skills-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+}
+
+.skill-item {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 10px;
+    font-size: 2em;
+    color: white;
+    transition: transform 0.3s;
+}
+
+.skill-item:hover {
+    transform: scale(1.1);
+}
+
+.skills-title {
+    text-align: center;
+    font-size: clamp(1.2em, 2vw, 1.5em);
+    margin: 0;
+    color: #ffffff;
+    font-weight: 600;
+}
+
 /* ---------- Responsive Design ---------- */
 
 /* Small Phones (very narrow screens like iPhone SE, old Androids) */
